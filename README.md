@@ -5,6 +5,9 @@
 
 # Screenshots:
 
+![Homepage](/assets/image/home.png)
+![Homepage](/assets/image/aboutme.png)
+![Homepage](/assets/image/contact.png)
 
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
