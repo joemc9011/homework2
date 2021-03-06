@@ -21,8 +21,12 @@ background-size: cover;
 }
 .card {
   border: 10px rgb(40, 58, 78) solid;
+  box-shadow: 5px 10px 8px #000000;
 }
 .card-body {
   background-color: rgb(119, 160, 146);
   color: white;
+  
+  
 }
+
