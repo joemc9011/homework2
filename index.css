@@ -1,0 +1,56 @@
+.image {
+    background-image: url(assets/Images/texture.jpg);
+    height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.standup { 
+    position: relative;
+   width: 100%;
+height: auto;
+    overflow-x: hidden;
+  
+  }
+.container  {
+  margin-top: 10%;
+  opacity: .5;
+}
+  
+  .bio {
+  height: 100px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:white;
+  text-shadow: 2px 2px 16px black;
+  text-align: center;
+  background-color: black;
+
+}
+#lb {
+  width: 105%;
+  height: 100%
+}
+
+.row {
+  background-color: black;
+}
+
+.box {
+font-family: 'Bebas Neue', cursive;
+background-color:darkslategrey;
+position: fixed;
+bottom: 150px;
+font-size: 60px;
+color: white;
+text-align: center;
+}
+
+#descript {
+font-size: 20px;
+text-shadow: 2px 2px 16px black;
+}
